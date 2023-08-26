@@ -1,0 +1,9 @@
+ffhq_image/
+input/
+style_your_hair_output/
+node_modules/
+.idea/
+AdminToken/
+cache/
+StyleYourHair.zip
+pretrained_models/

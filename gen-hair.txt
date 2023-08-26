@@ -1,0 +1,1 @@
+python main.py --input_dir ./ffhq_image/ --im_path1 "john-wick-hair.png" --im_path2 "toc-nam-5.png" --output_dir ./style_your_hair_output --warp_loss_with_prev_list delta_w style_hair_slic_large --save_all --version final --W_steps 450 --FS_steps 50 --align_steps1 50 --align_steps2 25 --warp_steps 100

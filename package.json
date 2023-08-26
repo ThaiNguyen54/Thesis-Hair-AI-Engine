@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cloudinary": "^1.37.0",
+    "firebase-admin": "^11.8.0"
+  }
+}
