@@ -7,6 +7,9 @@ Before running the code, you should create these folders in the root directory o
 + ffhq_image/
 + input/
 + style_your_hair_output/
-+ AdminToken/
-+ pretrained_models/
+.idea/
+AdminToken/
+cache/
+StyleYourHair.zip
+pretrained_models/
 
